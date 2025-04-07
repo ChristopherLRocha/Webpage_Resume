@@ -6,12 +6,14 @@ This is currently a work in progress. I am in the process of learning web develo
 
 ## Technologies
 
+- Azure
 - HTML
 - CSS
+- Github and Github actions for CICD
 
 ## Live Site
 
-Not live yet. This section will need updating when I host the page.
+rochacocha.com
 
 ## Contact
 
